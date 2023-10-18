@@ -1,3 +1,5 @@
+# Bengaluru House Price Prediction
+
 This repository contains the code for a machine learning model that predicts the price of houses in Bengaluru, India. The model was trained using data from the "BengaluruHouseData.xlsx" dataset, which was preprocessed to remove missing values and outliers.
 
 The repository includes the following files:
